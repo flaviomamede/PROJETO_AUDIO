@@ -39,11 +39,11 @@ class AudioTranscriber:
         
         # Informações sobre os modelos
         self.model_info = {
-            'tiny': {'size': '39 MB', 'ram': '~1 GB', 'speed': 'Muito rápida', 'quality': 'Básica'},
-            'base': {'size': '74 MB', 'ram': '~1 GB', 'speed': 'Rápida', 'quality': 'Boa'},
-            'small': {'size': '244 MB', 'ram': '~2 GB', 'speed': 'Moderada', 'quality': 'Muito boa'},
-            'medium': {'size': '769 MB', 'ram': '~5 GB', 'speed': 'Lenta', 'quality': 'Excelente'},
-            'large': {'size': '1550 MB', 'ram': '~10 GB', 'speed': 'Muito lenta', 'quality': 'Máxima'}
+            'tiny': {'size': '~72 MB', 'ram': '~1 GB', 'speed': 'Muito rápida', 'quality': 'Básica'},
+            'base': {'size': '~142 MB', 'ram': '~1 GB', 'speed': 'Rápida', 'quality': 'Boa'},
+            'small': {'size': '~483 MB', 'ram': '~2 GB', 'speed': 'Moderada', 'quality': 'Muito boa'},
+            'medium': {'size': '~1.4 GB', 'ram': '~5 GB', 'speed': 'Lenta', 'quality': 'Excelente'},
+            'large': {'size': '~3.1 GB', 'ram': '~10 GB', 'speed': 'Muito lenta', 'quality': 'Máxima'}
         }
     
     def load_model(self) -> bool:

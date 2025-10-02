@@ -78,11 +78,11 @@ python main.py --test-sample --duration 120 --url "URL_DO_VIDEO"
 
 | Modelo | Tamanho | RAM | Velocidade | Qualidade | **Recomendado para** |
 |--------|---------|-----|------------|-----------|----------------------|
-| **tiny** | 39 MB | ~1 GB | ⚡⚡⚡⚡ | ⭐⭐ | Testes rápidos |
-| **base** | 74 MB | ~1 GB | ⚡⚡⚡ | ⭐⭐⭐ | Uso casual |
-| **small** | 244 MB | ~2 GB | ⚡⚡ | ⭐⭐⭐⭐ | Boa qualidade |
-| **medium** | 769 MB | ~5 GB | ⚡ | ⭐⭐⭐⭐⭐ | **Recomendado** |
-| **large** | 1550 MB | ~10 GB | 🐌 | ⭐⭐⭐⭐⭐ | Máxima precisão |
+| **tiny** | ~72 MB | ~1 GB | ⚡⚡⚡⚡ | ⭐⭐ | Testes rápidos |
+| **base** | ~142 MB | ~1 GB | ⚡⚡⚡ | ⭐⭐⭐ | Uso casual |
+| **small** | ~483 MB | ~2 GB | ⚡⚡ | ⭐⭐⭐⭐ | Boa qualidade |
+| **medium** | ~1.4 GB | ~5 GB | ⚡ | ⭐⭐⭐⭐⭐ | **Recomendado** |
+| **large** | ~3.1 GB | ~10 GB | 🐌 | ⭐⭐⭐⭐⭐ | Máxima precisão |
 
 ## 🧠 Pós-processamento com IA
 
