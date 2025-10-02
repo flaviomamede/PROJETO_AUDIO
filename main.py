@@ -275,11 +275,11 @@ Exemplos:
   %(prog)s --filename "minha_palestra" --quiet
 
 Modelos disponíveis:
-  tiny   - Muito rápido, qualidade básica (39 MB)
-  base   - Rápido, boa qualidade (74 MB)  
-  small  - Moderado, muito boa qualidade (244 MB)
-  medium - Lento, excelente qualidade (769 MB) [PADRÃO]
-  large  - Muito lento, máxima qualidade (1.5 GB)
+  tiny   - Muito rápido, qualidade básica (~72 MB)
+  base   - Rápido, boa qualidade (~142 MB)  
+  small  - Moderado, muito boa qualidade (~483 MB)
+  medium - Lento, excelente qualidade (~1.4 GB) [PADRÃO]
+  large  - Muito lento, máxima qualidade (~3.1 GB)
         """
     )
     
