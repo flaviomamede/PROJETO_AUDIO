@@ -1,0 +1,22 @@
+# Dependências principais para download e transcrição de áudio do YouTube
+
+# Download de áudio do YouTube - ferramenta mais robusta e atualizada
+yt-dlp>=2023.10.13
+
+# Transcrição de áudio usando OpenAI Whisper - gratuito e altamente preciso
+openai-whisper>=20231117
+
+# Manipulação e processamento de áudio
+pydub>=0.25.1
+
+# Interface de linha de comando mais amigável
+click>=8.1.7
+
+# Logging e configurações
+colorama>=0.4.6
+
+# Testes e desenvolvimento
+pytest>=7.4.0
+
+# Utilitários
+tqdm>=4.66.0
